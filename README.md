@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Mahasiswa Teknik Komputer yang berfokus pada keamanan siber (Blue Team), infrastruktur jaringan, sistem IoT, dan otomasi berbasis Python.
+  Mahasiswa Teknik Komputer yang berfokus pada keamanan siber (Blue Team), infrastruktur jaringan, dan otomasi berbasis Python.
 </p>
 
 ---
@@ -11,7 +11,6 @@
 ### Fokus Belajar dan Eksplorasi
 - **Cybersecurity (SOC & Blue Team):** Analisis trafik jaringan, pembacaan log sistem, dan deteksi ancaman.
 - **Computer Networking:** Konfigurasi routing, switching, dan simulasi topologi jaringan.
-- **Internet of Things (IoT):** Pengembangan prototipe sensor dan pemantauan data berbasis mikrokontroler.
 - **Programming & Database:** Pengolahan data CLI menggunakan Python dan manajemen basis data relasional.
 
 ---
