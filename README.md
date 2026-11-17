@@ -28,9 +28,8 @@
 
 ---
 
-### Statistik GitHub
+<h3>Statistik Aktivitas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=healme6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healme6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=healme6&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
