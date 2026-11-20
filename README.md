@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Mahasiswa Teknik Komputer yang berfokus pada keamanan siber (Blue Team), infrastruktur jaringan, dan otomasi berbasis Python.
+  Mahasiswa Teknik Komputer yang berfokus pada keamanan siber, infrastruktur jaringan, dan otomasi berbasis Python.
 </p>
 
 ---
